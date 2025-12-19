@@ -5,7 +5,7 @@ function obtenerNombre() {
     let nombre = "Rodrigo"; 
     return nombre
 }
-let o_nombre = obetenerNombre();
+let o_nombre = obtenerNombre();
 // No modificar.
 // Exporta la función para que pueda ser utilizada en otros archivos
 module.exports = {
